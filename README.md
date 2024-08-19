@@ -12,6 +12,11 @@ Use `pip install chytorch-rxnmap` to install release version.
 
 Or `pip install .` in source code directory to install DEV version.
 
+
+`pip install mini_racer-0.7.0-py3-none-macosx_11_0_arm64.whl` from https://github.com/bpcreech/PyMiniRacer/releases/tag/v0.7.0 for arm64
+
+
+
 Perform Atom-to-atom mapping
 ----------------------------
 
